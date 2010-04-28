@@ -1,0 +1,1184 @@
+TBox2DBreakoutGame
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004B2B3BC40000000000000110
+t1261124548
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist
+c000000004A0BA04000000000000000DD
+t1242275904
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004A12213B000000000001B0E0
+t1242702139
+s110816
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A12212500000000002CE5F0
+t1242702117
+s2942448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004A0BAD610000000000002384
+t1242279265
+s9092
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004A122138000000000003C260
+t1242702136
+s246368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A0BB177000000000000094F
+t1242280311
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A0BB1770000000000000A61
+t1242280311
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A0BB1770000000000009369
+t1242280311
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A0BB1770000000000002576
+t1242280311
+s9590
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A1220EF00000000000380E0
+t1242702063
+s229600
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A12211900000000001CA4E0
+t1242702105
+s1877216
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/math.h
+c000000004A0BA2B100000000000004F1
+t1242276529
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/objc/objc.h
+c000000004A0BA80F0000000000000A27
+t1242277903
+s2599
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/stdlib.h
+c000000004A0BA3140000000000002AA4
+t1242276628
+s10916
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/string.h
+c000000004A0BA3140000000000001731
+t1242276628
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/include/sys/time.h
+c000000004A0BA7810000000000001E17
+t1242277761
+s7703
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/usr/lib/libz.dylib
+c000000004A121D1A0000000000022540
+t1242701082
+s140608
+
+N/Users/JonC/Library/MobileDevice/Provisioning Profiles/7FF6D654-93E4-4A29-93D0-45F4E8A375B8.mobileprovision
+c000000004BD77DF30000000000001BF9
+t1272413683
+s7161
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Box2DBreakoutGame_Prefix.pch
+c000000004BD77FC600000000000000C5
+t1272414150
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/Box2DBreakoutGameAppDelegate.h
+c000000004BD77FC6000000000000015C
+t1272414150
+s348
+i<UIKit/UIKit.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/Box2DBreakoutGameAppDelegate.mm
+c000000004BD77FC600000000000009B8
+t1272414150
+s2488
+i"Box2DBreakoutGameAppDelegate.h"
+i"cocos2d.h"
+i"HelloWorldScene.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/GLES-Render.h
+c000000004BD77FC60000000000000864
+t1272414150
+s2148
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"Box2D.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/GLES-Render.mm
+c000000004BD77FC600000000000013E6
+t1272414150
+s5094
+i"GLES-Render.h"
+i<cstdio>
+i<cstdarg>
+i<cstring>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/GameOverScene.mm
+c000000004BD7815A00000000000004CB
+t1272414554
+s1227
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/GameStartScene.mm
+c000000004BD7814300000000000004D0
+t1272414531
+s1232
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/HelloWorldScene.h
+c000000004BD77FC60000000000000194
+t1272414150
+s404
+i"cocos2d.h"
+i"Box2D.h"
+i"GLES-Render.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/HelloWorldScene.mm
+c000000004BD77FC60000000000001D78
+t1272414150
+s7544
+i"HelloWorldScene.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Resources/Default.png
+c000000004BD77FC600000000000077AB
+t1272414150
+s30635
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Resources/Icon.png
+c000000004BD77FC6000000000000246F
+t1272414150
+s9327
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Resources/Paddle.png
+c000000004B7C45E2000000000000080F
+t1266435554
+s2063
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Resources/blocks.png
+c000000004BD77FC600000000000007D1
+t1272414150
+s2001
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Resources/fps_images.png
+c000000004BD77FC6000000000000183B
+t1272414150
+s6203
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/Resources/logo9.png
+c000000004B6062E80000000000000784
+t1264607976
+s1924
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Box2DBreakoutGame.xcent
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/Box2DBreakoutGame.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/Box2DBreakoutGameAppDelegate.o
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/GLES-Render.o
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/GameOverScene.o
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/GameStartScene.o
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/HelloWorldScene.o
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app.dSYM
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/Box2DBreakoutGame
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/Default.png
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/Icon.png
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/Info.plist
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/Paddle.png
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/PkgInfo
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/ResourceRules.plist
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/blocks.png
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/fps_images.png
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/logo9.png
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/libcocos2d libraries.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Box2D.h
+c000000004BD77FC60000000000000888
+t1272414150
+s2184
+i<Box2D/Common/b2Settings.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<Box2D/Collision/b2BroadPhase.h>
+i<Box2D/Collision/b2Distance.h>
+i<Box2D/Collision/b2DynamicTree.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+i<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+i<Box2D/Dynamics/Joints/b2GearJoint.h>
+i<Box2D/Dynamics/Joints/b2LineJoint.h>
+i<Box2D/Dynamics/Joints/b2MouseJoint.h>
+i<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+i<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+i<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+i<Box2D/Dynamics/Joints/b2WeldJoint.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Collision/Shapes/b2CircleShape.h
+c000000004BD77FC60000000000000982
+t1272414150
+s2434
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Collision/Shapes/b2PolygonShape.h
+c000000004BD77FC60000000000000F38
+t1272414150
+s3896
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Collision/Shapes/b2Shape.h
+c000000004BD77FC60000000000000CB9
+t1272414150
+s3257
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Collision/b2BroadPhase.h
+c000000004BD77FC60000000000001843
+t1272414150
+s6211
+i<Box2D/Common/b2Settings.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2DynamicTree.h>
+i<algorithm>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Collision/b2Collision.h
+c000000004BD77FC60000000000002021
+t1272414150
+s8225
+i<Box2D/Common/b2Math.h>
+i<climits>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Collision/b2Distance.h
+c000000004BD77FC60000000000000EB5
+t1272414150
+s3765
+i<Box2D/Common/b2Math.h>
+i<climits>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Collision/b2DynamicTree.h
+c000000004BD77FC60000000000001C14
+t1272414150
+s7188
+i<Box2D/Collision/b2Collision.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Collision/b2TimeOfImpact.h
+c000000004BD77FC6000000000000075D
+t1272414150
+s1885
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Distance.h>
+i<climits>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Common/b2BlockAllocator.h
+c000000004BD77FC600000000000006F3
+t1272414150
+s1779
+i<Box2D/Common/b2Settings.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Common/b2Math.h
+c000000004BD77FC600000000000037E5
+t1272414150
+s14309
+i<Box2D/Common/b2Settings.h>
+i<cmath>
+i<cfloat>
+i<cstddef>
+i<limits>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Common/b2Settings.h
+c000000004BD77FC600000000000014A4
+t1272414150
+s5284
+i<cassert>
+i<cmath>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Common/b2StackAllocator.h
+c000000004BD77FC6000000000000068B
+t1272414150
+s1675
+i<Box2D/Common/b2Settings.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/Contacts/b2Contact.h
+c000000004BD77FC6000000000000198D
+t1272414150
+s6541
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/b2Fixture.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/Joints/b2DistanceJoint.h
+c000000004BD77FC60000000000000EA1
+t1272414150
+s3745
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/Joints/b2FrictionJoint.h
+c000000004BD77FC60000000000000AD5
+t1272414150
+s2773
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/Joints/b2GearJoint.h
+c000000004BD77FC60000000000000C75
+t1272414150
+s3189
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/Joints/b2Joint.h
+c000000004BD77FC600000000000015B0
+t1272414150
+s5552
+i<Box2D/Common/b2Math.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/Joints/b2LineJoint.h
+c000000004BD77FC60000000000001367
+t1272414150
+s4967
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/Joints/b2MouseJoint.h
+c000000004BD77FC60000000000000D77
+t1272414150
+s3447
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/Joints/b2PrismaticJoint.h
+c000000004BD77FC60000000000001475
+t1272414150
+s5237
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/Joints/b2PulleyJoint.h
+c000000004BD77FC600000000000010B4
+t1272414150
+s4276
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/Joints/b2RevoluteJoint.h
+c000000004BD77FC600000000000014C0
+t1272414150
+s5312
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/Joints/b2WeldJoint.h
+c000000004BD77FC600000000000009D7
+t1272414150
+s2519
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/b2Body.h
+c000000004BD77FC6000000000000523D
+t1272414150
+s21053
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<memory>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/b2ContactManager.h
+c000000004BD77FC60000000000000603
+t1272414150
+s1539
+i<Box2D/Collision/b2BroadPhase.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/b2Fixture.h
+c000000004BD77FC6000000000000214E
+t1272414150
+s8526
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/b2TimeStep.h
+c000000004BD77FC600000000000004DB
+t1272414150
+s1243
+i<Box2D/Common/b2Settings.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/b2World.h
+c000000004BD77FC6000000000000217C
+t1272414150
+s8572
+i<Box2D/Common/b2Math.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Common/b2StackAllocator.h>
+i<Box2D/Dynamics/b2ContactManager.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/Box2D/Dynamics/b2WorldCallbacks.h
+c000000004BD77FC60000000000001E90
+t1272414150
+s7824
+i<Box2D/Common/b2Settings.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCAction.h
+c000000004BD77FC60000000000000E69
+t1272414150
+s3689
+i<UIKit/UIKit.h>
+i<sys/time.h>
+i"ccTypes.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCActionManager.h
+c000000004BD77FC60000000000000C0E
+t1272414150
+s3086
+i"CCAction.h"
+i"Support/ccArray.h"
+i"Support/ccHashSet.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCAtlasNode.h
+c000000004BD77FC60000000000000911
+t1272414150
+s2321
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCBitmapFontAtlas.h
+c000000004BD77FC60000000000001007
+t1272414150
+s4103
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+i"Support/ccHashSet.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCCamera.h
+c000000004BD77FC60000000000000815
+t1272414150
+s2069
+i"CCNode.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCCameraAction.h
+c000000004BD77FC60000000000000676
+t1272414150
+s1654
+i"CCIntervalAction.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCCompatibility.h
+c000000004BD77FC60000000000003A7C
+t1272414150
+s14972
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCConfiguration.h
+c000000004BD77FC60000000000000425
+t1272414150
+s1061
+i<Foundation/Foundation.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCDirector.h
+c000000004BD77FC600000000000035B4
+t1272414150
+s13748
+i"ccConfig.h"
+i"ccTypes.h"
+i"Support/EAGLView.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCDrawingPrimitives.h
+c000000004BD77FC600000000000007E2
+t1272414150
+s2018
+i<CoreGraphics/CGGeometry.h>
+i<objc/objc.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCEaseAction.h
+c000000004BD77FC60000000000001338
+t1272414150
+s4920
+i"CCIntervalAction.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCGrabber.h
+c000000004BD77FC600000000000002C0
+t1272414150
+s704
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<UIKit/UIKit.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCGrid.h
+c000000004BD77FC60000000000000B52
+t1272414150
+s2898
+i<UIKit/UIKit.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCGrid3DAction.h
+c000000004BD77FC600000000000016A5
+t1272414150
+s5797
+i"CCGridAction.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCGridAction.h
+c000000004BD77FC6000000000000116D
+t1272414150
+s4461
+i<UIKit/UIKit.h>
+i"CCIntervalAction.h"
+i"CCInstantAction.h"
+i"CCGrid.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCInstantAction.h
+c000000004BD77FC60000000000000A17
+t1272414150
+s2583
+i<UIKit/UIKit.h>
+i"CCAction.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCIntervalAction.h
+c000000004BD77FC60000000000002F73
+t1272414150
+s12147
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCLabel.h
+c000000004BD77FC600000000000006E7
+t1272414150
+s1767
+i"CCTexture2D.h"
+i"CCSprite.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCLabelAtlas.h
+c000000004BD77FC60000000000000653
+t1272414150
+s1619
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCLayer.h
+c000000004BD77FC60000000000001063
+t1272414150
+s4195
+i<UIKit/UIKit.h>
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCTouchDelegateProtocol.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCMenu.h
+c000000004BD77FC600000000000007B3
+t1272414150
+s1971
+i<UIKit/UIKit.h>
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCMenuItem.h
+c000000004BD77FC600000000000020C2
+t1272414150
+s8386
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCMotionStreak.h
+c000000004BD77FC600000000000007F1
+t1272414150
+s2033
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCNode.h
+c000000004BD77FC60000000000003594
+t1272414150
+s13716
+i<OpenGLES/ES1/gl.h>
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCPVRTexture.h
+c000000004BD77FC60000000000000CA5
+t1272414150
+s3237
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCPageTurn3DAction.h
+c000000004BD77FC6000000000000030A
+t1272414150
+s778
+i"CCGrid3DAction.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCPageTurnTransition.h
+c000000004BD77FC600000000000005BA
+t1272414150
+s1466
+i"CCTransition.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCParallaxNode.h
+c000000004BD77FC6000000000000041B
+t1272414150
+s1051
+i"CCNode.h"
+i"Support/ccArray.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCParticleExamples.h
+c000000004BD77FC60000000000000591
+t1272414150
+s1425
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCParticleSystem.h
+c000000004BD77FC60000000000001F33
+t1272414150
+s7987
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCPointParticleSystem.h
+c000000004BD77FC60000000000000393
+t1272414150
+s915
+i"CCParticleSystem.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCProgressTimer.h
+c000000004BD77FC600000000000007CC
+t1272414150
+s1996
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCProgressTimerActions.h
+c000000004BD77FC60000000000000553
+t1272414150
+s1363
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCIntervalAction.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCProtocols.h
+c000000004BD77FC60000000000000F5E
+t1272414150
+s3934
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCQuadParticleSystem.h
+c000000004BD77FC6000000000000045E
+t1272414150
+s1118
+i"CCParticleSystem.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCRadialTransition.h
+c000000004BD77FC600000000000002B8
+t1272414150
+s696
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCProgressTimerActions.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCRenderTexture.h
+c000000004BD77FC60000000000000722
+t1272414150
+s1826
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCRibbon.h
+c000000004BD77FC60000000000000C7D
+t1272414150
+s3197
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i<OpenGLES/ES1/gl.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCScene.h
+c000000004BD77FC60000000000000356
+t1272414150
+s854
+i<UIKit/UIKit.h>
+i"CCNode.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCScheduler.h
+c000000004BD77FC60000000000000A9F
+t1272414150
+s2719
+i<UIKit/UIKit.h>
+i"ccTypes.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCSprite.h
+c000000004BD77FC6000000000000279A
+t1272414150
+s10138
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCSpriteFrame.h
+c000000004BD77FC60000000000000E49
+t1272414150
+s3657
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCSpriteFrameCache.h
+c000000004BD77FC60000000000000CC0
+t1272414150
+s3264
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCSpriteSheet.h
+c000000004BD77FC60000000000000F8B
+t1272414150
+s3979
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+i"Support/ccArray.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTMXLayer.h
+c000000004BD77FC600000000000014D2
+t1272414150
+s5330
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+i"Support/ccArray.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTMXObjectGroup.h
+c000000004BD77FC600000000000005CC
+t1272414150
+s1484
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+i"Support/ccArray.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTMXTiledMap.h
+c000000004BD77FC600000000000010FE
+t1272414150
+s4350
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+i"Support/ccArray.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTMXXMLParser.h
+c000000004BD77FC60000000000001195
+t1272414150
+s4501
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTexture2D.h
+c000000004BD77FC60000000000002560
+t1272414150
+s9568
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTextureAtlas.h
+c000000004BD77FC6000000000000113D
+t1272414150
+s4413
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTextureCache.h
+c000000004BD77FC60000000000000EE7
+t1272414150
+s3815
+i<Foundation/Foundation.h>
+i"CCTexture2D.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTileMapAtlas.h
+c000000004BD77FC6000000000000085A
+t1272414150
+s2138
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTiledGridAction.h
+c000000004BD77FC600000000000016DC
+t1272414150
+s5852
+i"CCGridAction.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTouchDelegateProtocol.h
+c000000004BD77FC6000000000000078B
+t1272414150
+s1931
+i<UIKit/UIKit.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTouchDispatcher.h
+c000000004BD77FC60000000000000C8C
+t1272414150
+s3212
+i"CCTouchDelegateProtocol.h"
+i"Support/EAGLView.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTouchHandler.h
+c000000004BD77FC60000000000000886
+t1272414150
+s2182
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/CCTransition.h
+c000000004BD77FC60000000000001DF5
+t1272414150
+s7669
+i"CCScene.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/Support/CCFileUtils.h
+c000000004BD77FC60000000000000251
+t1272414150
+s593
+i<Foundation/Foundation.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/Support/CGPointExtension.h
+c000000004BD77FC60000000000001E13
+t1272414150
+s7699
+i<CoreGraphics/CGGeometry.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/Support/EAGLView.h
+c000000004BD77FC6000000000000175A
+t1272414150
+s5978
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004BD77FC6000000000000111D
+t1272414150
+s4381
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/Support/TGAlib.h
+c000000004BD77FC60000000000000444
+t1272414150
+s1092
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/Support/ccArray.h
+c000000004BD77FC60000000000002E36
+t1272414150
+s11830
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/Support/ccHashSet.h
+c000000004BD77FC600000000000011BE
+t1272414150
+s4542
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/ccConfig.h
+c000000004BD77FC60000000000000ED8
+t1272414150
+s3800
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/ccMacros.h
+c000000004BD77FC60000000000000A4A
+t1272414150
+s2634
+i<math.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/ccTypes.h
+c000000004BD77FC6000000000000131E
+t1272414150
+s4894
+i<objc/objc.h>
+i<CoreGraphics/CGGeometry.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/libs/cocos2d/cocos2d.h
+c000000004BD77FC60000000000000A68
+t1272414150
+s2664
+i"CCAction.h"
+i"CCCamera.h"
+i"CCCameraAction.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCTouchDispatcher.h"
+i"CCTouchDelegateProtocol.h"
+i"CCInstantAction.h"
+i"CCIntervalAction.h"
+i"CCEaseAction.h"
+i"CCLabel.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCParticleSystem.h"
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+i"CCParticleExamples.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteFrameCache.h"
+i"CCTextureCache.h"
+i"CCTransition.h"
+i"CCTextureAtlas.h"
+i"CCLabelAtlas.h"
+i"CCAtlasNode.h"
+i"CCEaseAction.h"
+i"CCTiledGridAction.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCGrid3DAction.h"
+i"CCGridAction.h"
+i"CCBitmapFontAtlas.h"
+i"CCParallaxNode.h"
+i"CCActionManager.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCPageTurn3DAction.h"
+i"CCPageTurnTransition.h"
+i"CCTexture2D.h"
+i"CCPVRTexture.h"
+i"CCTouchHandler.h"
+i"ccConfig.h"
+i"CCConfiguration.h"
+i"CCRadialTransition.h"
+i"CCProgressTimerActions.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/EAGLView.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccArray.h"
+i"CCCompatibility.h"
+
+N/Users/JonC/School/CS 481/Box2DBreakoutGame/main.m
+c000000004BD77FC60000000000000178
+t1272414150
+s376
+i<UIKit/UIKit.h>
+
+N/var/folders/al/al6m9QASE6y3VVoECuCvc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Box2DBreakoutGame_Prefix-ecskyjdbaahemvgwgkixtwiugynm/Box2DBreakoutGame_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/al/al6m9QASE6y3VVoECuCvc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Box2DBreakoutGame_Prefix-gwccpgpratrpsmbhauicfsccclve/Box2DBreakoutGame_Prefix.pch.gch
+t2
+s0
+
+NResources/Info.plist
+c000000004BD77FC6000000000000038E
+t1272414150
+s910
+
+CCodeSign "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app"
+r0
+
+CCompileC build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/Box2DBreakoutGameAppDelegate.o "/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/Box2DBreakoutGameAppDelegate.mm" normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/GLES-Render.o "/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/GLES-Render.mm" normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/GameOverScene.o "/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/GameOverScene.mm" normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/GameStartScene.o "/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/GameStartScene.mm" normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/HelloWorldScene.o "/Users/JonC/School/CS 481/Box2DBreakoutGame/Classes/HelloWorldScene.mm" normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Objects-normal/armv6/main.o "/Users/JonC/School/CS 481/Box2DBreakoutGame/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCopyPNGFile "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/Default.png" Resources/Default.png
+r0
+
+CCopyPNGFile "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/Icon.png" Resources/Icon.png
+r0
+
+CCopyPNGFile "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/Paddle.png" Resources/Paddle.png
+r0
+
+CCopyPNGFile "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/blocks.png" Resources/blocks.png
+r0
+
+CCopyPNGFile "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/fps_images.png" Resources/fps_images.png
+r0
+
+CCopyPNGFile "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/logo9.png" Resources/logo9.png
+r0
+
+CCpResource build/Debug-iphoneos/Box2DBreakoutGame.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app.dSYM" "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/Box2DBreakoutGame"
+r0
+
+CLd "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/Box2DBreakoutGame" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/Info.plist" Resources/Info.plist
+r0
+
+CProcessPCH /var/folders/al/al6m9QASE6y3VVoECuCvc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Box2DBreakoutGame_Prefix-ecskyjdbaahemvgwgkixtwiugynm/Box2DBreakoutGame_Prefix.pch.gch Box2DBreakoutGame_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH++ /var/folders/al/al6m9QASE6y3VVoECuCvc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Box2DBreakoutGame_Prefix-gwccpgpratrpsmbhauicfsccclve/Box2DBreakoutGame_Prefix.pch.gch Box2DBreakoutGame_Prefix.pch normal armv6 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/JonC/Library/MobileDevice/Provisioning Profiles/7FF6D654-93E4-4A29-93D0-45F4E8A375B8.mobileprovision" "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Box2DBreakoutGame.build/Debug-iphoneos/Box2DBreakoutGame.build/Box2DBreakoutGame.xcent"
+r0
+
+CTouch "/Users/JonC/School/CS 481/Box2DBreakoutGame/build/Debug-iphoneos/Box2DBreakoutGame.app"
+r0
+
